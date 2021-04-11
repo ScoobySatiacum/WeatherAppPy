@@ -9,8 +9,10 @@ Once an API key has been obtained a config.py file will need to be generated in 
 
 A sample version has been provided below. This can be copy and pasted into a blank config.py file:
 
+```python
 class Config:
     
     API_KEY = 'PERSONAL_API_KEY'
+```
 
 Once the above has been completed execute main.py.
